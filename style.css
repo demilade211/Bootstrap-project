@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.coloumn{
+    border: 1px solid black;
+    height: 100px;
+}
+.carousel{
+    width: 100%;
+}
